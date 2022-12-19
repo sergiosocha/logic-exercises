@@ -4,9 +4,9 @@ In this place you will find exercises in order to improve your programming logic
 
 ## First steps 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_From Main you can execute any exercise to see how the result is, you can also consult the code._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Look **Main** to know how works the exercises.
 
 
 
