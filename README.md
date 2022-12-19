@@ -10,19 +10,17 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 
-## Construido con 🛠️
+## language and specifications 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_It is mainly developed in java, however soon it will also be uploaded in javascript, although the instructions will be clear so that they can be developed in any language you want._
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
 
 
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Sergio Socha** -  - [sergio socha](https://github.com/sergiosocha)
 
 
