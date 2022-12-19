@@ -19,7 +19,6 @@ _It is mainly developed in java, however soon it will also be uploaded in javasc
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Sergio Socha** -  - [sergio socha](https://github.com/sergiosocha)
 
